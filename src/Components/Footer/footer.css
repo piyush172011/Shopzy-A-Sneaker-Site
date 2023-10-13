@@ -1,0 +1,13 @@
+#foot {
+    margin-top: 2rem;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+
+#mainf {
+    margin-top: -15px;
+}
+footer{
+    background-color: rgb(235, 234, 234);
+}

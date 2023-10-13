@@ -1,0 +1,12 @@
+form{
+    margin-left: 40rem;
+    margin-right: 25rem;
+    margin-top: 5rem;
+    width: 30%;
+}
+.photo-left {
+    float: left;
+    display: inline;
+    width: 33%;
+    margin-top: 150px;
+  }
